@@ -1,0 +1,65 @@
+{USER 1}
+Nama: User1
+Channel: Channel1
+Email: user1@example.com
+Status: silver
+
+Judul: Video1_1
+Tanggal: 2023-01-01
+Tayang: 100
+
+Judul: Video1_2
+Tanggal: 2023-02-01
+Tayang: 200
+
+Judul: Video1_3
+Tanggal: 2023-03-01
+Tayang: 300
+
+{USER 2}
+Nama: User2
+Channel: Channel2
+Email: user2@example.com
+Status: gold
+
+Judul: Video2_1
+Tanggal: 2023-01-15
+Tayang: 150
+
+Judul: Video2_2
+Tanggal: 2023-02-15
+Tayang: 250
+
+Judul: Video2_3
+Tanggal: 2023-03-15
+Tayang: 350
+
+Judul: Video2_4
+Tanggal: 2023-04-15
+Tayang: 450
+
+{USER 3}
+Nama: User3
+Channel: Channel3
+Email: user3@example.com
+Status: platinum
+
+Judul: Video3_1
+Tanggal: 2023-01-10
+Tayang: 120
+
+Judul: Video3_2
+Tanggal: 2023-02-10
+Tayang: 220
+
+Judul: Video3_3
+Tanggal: 2023-03-10
+Tayang: 320
+
+Judul: Video3_4
+Tanggal: 2023-04-10
+Tayang: 420
+
+Judul: Video3_5
+Tanggal: 2023-05-10
+Tayang: 520
